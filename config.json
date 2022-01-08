@@ -1,0 +1,9 @@
+{
+  "usb4": {
+    "port": "COM4"
+  },
+  "server": {
+    "port": 5550,
+    "address": "localhost"
+  }
+}
